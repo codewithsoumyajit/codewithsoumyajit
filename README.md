@@ -8,7 +8,7 @@
 
 * 💻 Backend Engineer building **scalable, production-grade microservices**
 * ⚙️ Expertise in **Spring Boot, Kafka, and distributed systems**
-* 🧠 Solved **300+ DSA problems** with focus on performance & optimization
+* 🧠 Solved **DSA problems** with focus on performance & optimization
 * 🏗️ Strong in **system design, scalability, and clean architecture**
 * 🔐 Experienced in **secure backend development (JWT, Spring Security)**
 
