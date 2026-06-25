@@ -105,6 +105,14 @@
 
 ---
 
+## 🌐 Portfolio
+
+🚀 Explore my projects, skills, and engineering journey:
+
+🔗 **Portfolio Website:** https://soumyajit-nandi-portfolio.netlify.app/
+
+---
+
 ## 🌐 Connect
 
 * 💼 LinkedIn: [Profile](https://www.linkedin.com/in/soumyajit-nandi-795686290/)
